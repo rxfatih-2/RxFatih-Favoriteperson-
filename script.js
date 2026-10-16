@@ -29,8 +29,8 @@ const CONFIG = {
     'Assets/fj.jpg',
     'Assets/fk.jpg',
     'Assets/fl.jpg',
-    'Assets/fz.jpg',
     'Assets/fx.jpg',
+    'Assets/fz.jpg',
   ],
 
   // Caption untuk tiap foto (opsional, akan di-loop kalau kurang)
